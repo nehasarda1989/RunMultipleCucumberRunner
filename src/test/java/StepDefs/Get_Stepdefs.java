@@ -15,6 +15,7 @@ public class Get_Stepdefs {
 	public void i_remove_a_book_from_my_reading_list() {
 		// Write code here that turns the phrase above into concrete actions
 		System.out.println("Test 2");
+
 	}
 
 }
